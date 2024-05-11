@@ -1,0 +1,12 @@
+[Appearance]
+HideSkinBorders=true
+Translucency=true
+
+[Dialogs]
+FirstRun=false
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[Window]
+ShowTabBar=false

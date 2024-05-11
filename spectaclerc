@@ -1,0 +1,18 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/jks/picture/屏幕截图_20240405_174528.png
+lastImageSaveLocation=file:///home/jks/picture/屏幕截图_20240405_174528.png
+translatedScreenshotsFolder=屏幕截图
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/picture/屏幕截图_20240405_174528.png,file:$HOME/picture/Screenshot_20240205_162225.png
+Recent URLs[$e]=file:$HOME/picture/,file:$HOME/,file:$HOME/document/
+detailViewIconSize=16
+
+[VideoSave]
+translatedScreencastsFolder=屏幕录像

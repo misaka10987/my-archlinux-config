@@ -1,0 +1,107 @@
+# Sensitive information
+**akonadi**
+**.pem
+**ssh*
+
+# General folders
+**[Cc]ache*/
+**[Ss]torage*/
+**[Dd]atabase*/
+**[Bb]ackup*/
+**[Ll]og*/
+**[Jj]ournal*/
+**[Hh]istory*/
+
+# Electron
+**.org.chromium.Chromium*
+**[Cc]ookie*
+**Trust Tokens*
+**client_id*
+**Network Persistent State*
+**Crashpad*
+**window-state.json
+**CURRENT
+**TransportSecurity
+**SharedStorage
+
+**Shared Dictionary/
+
+**IndexedDB/
+
+# Log files
+**.log*
+
+# Storage
+**.dat*
+**.db*
+**.zip*
+**.tar*
+**.csv*
+
+# Images
+**.png
+**.jpg
+**.jpeg
+**.svg
+**.gif
+
+**.bin*
+**.lock
+**.old
+**.usage
+
+**.bdic
+**.cwl
+
+**.desktop
+
+**[Ll][Oo][Gg]
+**[Ll][Oo][Cc][Kk]
+
+**history
+
+**[Ll]ast*
+**[Rr]ecent*
+**[Cc]ached*
+**[Ss]tate*
+
+fcitx
+ibus
+libreoffice
+pulse
+QQ
+
+sddmthemeinstallerrc
+trashrc
+
+session
+KDE
+kde.org
+kdeconnect
+kdedefaults
+kdeglobals
+kwin*
+plasma-workspace
+
+k*rc
+plasma*
+powerdevilrc
+powermanagementprofilesrc
+xsettingsd.conf
+
+aurorarc
+breezerc
+
+# Useless
+dconf
+kdiskmark.conf
+**manjaro*
+pamac
+partitionmanagerrc
+sieveeditorrc
+specialmailcollectionsrc
+systemsettingsrc
+thunar.xml
+
+# Fuck off
+JetBrains

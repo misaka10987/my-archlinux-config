@@ -1,0 +1,34 @@
+[General]
+Default Identity=248428426
+
+[Identity #0]
+Attach Vcard=false
+Autocrypt=true
+Autocrypt Prefer=true
+Default Domain=jks2023
+Dictionary=American English (United States)
+Disable Fcc=false
+Drafts=5
+Email Address=misaka109807@outlook.com
+Email Aliases=
+FaceEnabled=false
+Fcc=8
+Identity=misaka10987
+Image Location=
+Inline Signature=
+Inlined Html=false
+Name=misaka10987
+Organization=misaka10987
+Override Encryption Defaults=false
+PGP Encryption Key=5AE9579ECC2F4F4EB2CBCA12D9E6C5AE99731DE6
+PGP Signing Key=5AE9579ECC2F4F4EB2CBCA12D9E6C5AE99731DE6
+Pgp Auto Encrypt=false
+Pgp Auto Sign=false
+Preferred Crypto Message Format=openpgp/mime
+Signature Enabled=false
+Signature Type=inline
+Templates=9
+VCardFile=/home/jks/.local/share/kmail2/misaka10987.vcf
+Warn not Encrypt=false
+X-FaceEnabled=false
+uoid=248428426

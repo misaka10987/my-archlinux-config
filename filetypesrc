@@ -1,0 +1,11 @@
+[EmbedSettings]
+embed-application/json=false
+embed-application/vnd.ms-publisher=false
+embed-application/x-pak=false
+embed-application/x-zerosize=false
+embed-image/svg+xml=false
+embed-text/csv=false
+embed-text/html=false
+embed-text/markdown=false
+embed-text/plain=false
+embed-text/x-texmacs.doc=false

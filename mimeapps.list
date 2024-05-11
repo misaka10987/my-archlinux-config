@@ -1,0 +1,37 @@
+[Added Associations]
+application/json=org.kde.kwrite.desktop;org.kde.kate.desktop;
+application/vnd.ms-publisher=org.kde.kwrite.desktop;org.kde.kate.desktop;
+application/x-pak=org.kde.ark.desktop;
+application/x-zerosize=org.kde.kwrite.desktop;
+image/svg+xml=gimp.desktop;
+inode/directory=org.kde.dolphin.desktop;org.kde.kate.desktop;org.kde.gwenview.desktop;org.gnome.Nautilus.desktop;vscodium.desktop;org.kde.filelight.desktop;
+text/csv=org.kde.kwrite.desktop;
+text/html=firefox.desktop;
+text/markdown=marktext.desktop;
+text/plain=org.kde.kwrite.desktop;
+text/x-texmacs.doc=texmacs.desktop;
+x-scheme-handler/etcher=balena-etcher.desktop;
+x-scheme-handler/x-github-client=github-desktop.desktop;GitHub Desktop.desktop;
+x-scheme-handler/x-github-desktop-auth=github-desktop.desktop;GitHub Desktop.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-I1JZM2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-I1JZM2.desktop;
+
+[Default Applications]
+application/json=org.kde.kwrite.desktop;
+application/vnd.ms-publisher=org.kde.kwrite.desktop;
+application/x-pak=org.kde.ark.desktop;
+application/x-zerosize=org.kde.kwrite.desktop;
+image/svg+xml=gimp.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/csv=org.kde.kwrite.desktop;
+text/html=firefox.desktop;
+text/markdown=marktext.desktop;
+text/plain=org.kde.kwrite.desktop;
+text/x-texmacs.doc=texmacs.desktop;
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_usr_lib_eclipse_.desktop
+x-scheme-handler/etcher=balena-etcher.desktop
+x-scheme-handler/x-github-client=github-desktop.desktop
+x-scheme-handler/x-github-desktop-auth=github-desktop.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-I1JZM2.desktop
+message/rfc822=userapp-Thunderbird-I1JZM2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-I1JZM2.desktop

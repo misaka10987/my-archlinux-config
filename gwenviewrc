@@ -1,0 +1,45 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=1.4142135623730951
+CropRatioIndex=19
+CropRatioWidth=1
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+2048x1152 screen: Height=767
+2048x1152 screen: Width=640
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/download/6641344011_4a4ee86f2b_o.jpg
+File10[$e]=$HOME/download/purrgil.jpeg
+File2[$e]=$HOME/document/efz/2024/en/things-around-us/fig/nebula.jpg
+File3[$e]=$HOME/download/saber2.webp
+File4[$e]=$HOME/document/efz/2024/en/things-around-us/fig/saber.png
+File5[$e]=$HOME/download/Flag_of_the_First_Galactic_Empire.svg.png
+File6[$e]=$HOME/document/efz/2024/en/things-around-us/fig/nazi-flag.jpeg
+File7[$e]=$HOME/document/efz/2024/en/things-around-us/fig/clone-wars.jpeg
+File8[$e]=$HOME/download/06-martin-luther-king_16x9.avif
+File9[$e]=$HOME/download/m-king.jpeg
+Name1[$e]=6641344011_4a4ee86f2b_o.jpg
+Name10[$e]=purrgil.jpeg
+Name2[$e]=nebula.jpg
+Name3[$e]=saber2.webp
+Name4[$e]=saber.png
+Name5[$e]=Flag_of_the_First_Galactic_Empire.svg.png
+Name6[$e]=nazi-flag.jpeg
+Name7[$e]=clone-wars.jpeg
+Name8[$e]=06-martin-luther-king_16x9.avif
+Name9[$e]=m-king.jpeg
+
+[SideBar]
+InformationSplitterSizes=217,258
+IsVisible ViewMode=true
+SideBarSplitterSizes=162,477

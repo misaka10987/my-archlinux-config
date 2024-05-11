@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "editor.bracketPairColorization.enabled": false,
+    "C_Cpp.formatting": "vcFormat",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "redhat.telemetry.enabled": false,
+    "window.titleBarStyle": "custom",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.iconTheme": "material-icon-theme",
+    "cmake.showOptionsMovedNotification": false,
+    "grunt.autoDetect": "on",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.languageServer": "Pylance",
+    "files.associations": {
+        "*.py": "python"
+    },
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.enableSyncServer": true,
+    "python.analysis.gotoDefinitionInStringLiteral": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.createEnvironment.trigger": "prompt",
+    "terminal.integrated.fontFamily": "'Hack', 'Microsoft Yahei'",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontFamily": "'Liberation Mono', 'monospace', monospace"
+}

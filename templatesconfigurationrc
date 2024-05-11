@@ -1,0 +1,6 @@
+[Templates #IDENTITY_248428426]
+QuoteString=>\s
+TemplateForward=%REM="默认转发模板"%-\n\n----------  转发的信件  ----------\n\n主题：%OFULLSUBJECT\n日期：%ODATE\n发件人：%OTIMELONG\n收件人：%OFROMADDR\n%OADDRESSEESADDR\n\n%TEXT\n-------------------------------------------------------
+TemplateNewMessage=%REM="默认新建信件模板"%-\n%BLANK
+TemplateReply=%REM="默认回复模板"%-\n在 %ODATE %OTIMELONG，您写道：\n%QUOTE\n%CURSOR
+TemplateReplyAll=%REM="默认全部回复模板"%-\n在 %ODATE %OTIMELONG，%OFROMNAME 写道：\n%QUOTE\n%CURSOR

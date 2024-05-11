@@ -1,0 +1,47 @@
+2048x1152 screen: Height=879
+2048x1152 screen: Width=1020
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADH/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABQAAADHwAAARcA///+AAADMAAAAx8AAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+2048x1152 screen: Height=879
+2048x1152 screen: Width=1020
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+presentationInfo=false
+
+[Print Preview]
+2048x1152 screen: Height=500
+2048x1152 screen: Width=600
+
+[Recent Files]
+File1[$e]=$HOME/document/efz/2024/pol-pre/pre.pdf
+File10[$e]=$HOME/document/study/2024/math/maths/5导数/4导数综合/板块四.导数与其它知识综合1-函数.pdf
+File2[$e]=$HOME/document/efz/2024/math/assign/校本作业 向量8.1（2612届）.pdf
+File3[$e]=$HOME/document/efz/2024/math/assign/8.1.1.pdf
+File4[$e]=$HOME/document/book/国家的常识：政权·地理·文化.pdf
+File5[$e]=$HOME/document/efz/2024/nation/demo.pdf
+File6[$e]=$HOME/document/study/2024/math/maths/powerset-of-natural-number.pdf
+File7[$e]=$HOME/document/study/2024/math/maths/5导数/1导数的概念与几何意义.pdf
+File8[$e]=$HOME/document/study/2024/math/maths/5导数/3导数的应用/3最值.pdf
+File9[$e]=$HOME/document/study/2024/math/maths/5导数/3导数的应用/4导数的应用题.pdf
+Name1[$e]=pre.pdf
+Name10[$e]=板块四.导数与其它知识综合1-函数.pdf
+Name2[$e]=校本作业 向量8.1（2612届）.pdf
+Name3[$e]=8.1.1.pdf
+Name4[$e]=国家的常识：政权·地理·文化.pdf
+Name5[$e]=demo.pdf
+Name6[$e]=powerset-of-natural-number.pdf
+Name7[$e]=1导数的概念与几何意义.pdf
+Name8[$e]=3最值.pdf
+Name9[$e]=4导数的应用题.pdf

@@ -1,0 +1,41 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[ContentDisplay]
+UseShortRelativeDates=false
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+ShowOpenTerminal=false
+
+[General]
+RememberOpenedTabs=false
+RenameInline=false
+ShowZoomSlider=false
+Version=202
+ViewPropsTimestamp=2023,7,10,1,38,25.823
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=sildurs-vibrant-shaders-1.50-extreme.zip,file:$HOME/game/mc-mod/fabric-1.20.1/litematica-printer-3.2.1.jar,file:$HOME/game/mc-mod/fabric-1.20.1/xaeros-worldmap-1.31.0.jar,file:$HOME/game/mc-shader/iris-1.20.1/astra-lex-80.2.zip,file:$HOME/game/mc-shader/optifine-1.16.1/complementary-reimagined-r2.2.1.zip,file:$HOME/game/mc-shader/iris-1.19.3/sildurs-vibrant-shaders-1.50-extreme.zip
+Recent URLs[$e]=file:$HOME/game/mc-shader/iris-1.19.3/,file:$HOME/game/mc-shader/,file:$HOME/game/,file:$HOME/,file:$HOME/game/mc-shader/optifine-1.16.1/,file:$HOME/game/mc-shader/iris-1.20.1/,file:$HOME/game/mc-mod/fabric-1.20.1/,file:$HOME/game/mc-mod/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=642
+1920x1080 screen: Width=552
+2048x1152 screen: Height=568
+2048x1152 screen: Width=607
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmHide=true
+
+[PreviewSettings]
+Plugins=jpegthumbnail,imagethumbnail

@@ -1,0 +1,8 @@
+[FileDialogSize]
+2048x1152 screen: Height=634
+2048x1152 screen: Width=1042
+
+[KFileDialog Settings]
+Recent Files[$e]=genshin-aagl,file:$HOME/document/summer/duke/essay.docx
+Recent URLs[$e]=file:///opt/,file:///,file:$HOME/download/,file:$HOME/document/summer/duke/
+detailViewIconSize=16

@@ -1,0 +1,8 @@
+[FileDialogSize]
+2560x1440 screen: Height=607
+2560x1440 screen: Width=809
+
+[KFileDialog Settings]
+Recent Files[$e]=Win10_22H2_English_x64v1.iso,file:$HOME/download/Win10_22H2_English_x64v1.iso
+Recent URLs[$e]=file:$HOME/download/
+detailViewIconSize=16
